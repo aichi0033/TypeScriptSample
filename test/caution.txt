@@ -1,0 +1,2 @@
+// Test実行時にdescribe is not defined になる場合はlounch.jsonのargsのパラメーターをtddからbddに変更すること
+// Version6.0.0以降はTDDからBDDに変更になった模様
