@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/aichi0033/TypeScriptSample#readme",
   "dependencies": {
-    "mocha": "^7.1.1"
+    "mocha": "^10.2.0"
   }
 }
